@@ -35,3 +35,4 @@ Message.create!(
 )
 
 puts "#{Message.count} messages created"
+
